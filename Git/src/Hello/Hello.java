@@ -6,9 +6,5 @@ public class Hello {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello world");
     }
-    
-    public boolean isPrinted() {
-    	return true;
-    }
 
 }
